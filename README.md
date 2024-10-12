@@ -17,8 +17,7 @@ This is a Contact Management System built using **Node.js** and **MongoDB**, wit
 - **Database**: MongoDB (NoSQL)
 - **Authentication**: JWT (JSON Web Tokens)
 - **Password Hashing**: bcrypt.js
-- **Validation**: Express Validator (or Joi)
-- **Security**: Helmet.js
+
 
 ## Database Structure
 
